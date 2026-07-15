@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <!-- Replace with your actual API domain or IP -->
+        <domain includeSubdomains="true">188.245.105.29</domain>
+    </domain-config>
+</network-security-config>
+
