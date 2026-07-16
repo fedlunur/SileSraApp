@@ -12,11 +12,11 @@ import 'package:silesra/features/Auth/models/user_model.dart';
 // this is for Emulator
 // const String chatip = "10.0.2.2:8888";
 // const String baseUrl = "http://10.0.2.2:8888/api";
-const String chatip = "localhost:8888";
-const String baseUrl = "http://localhost:8888/api";
-//phone immulator
-// const String chatip = "192.168.1.101:8888"
-// const String baseUrl = "http://192.168.1.101:8888/api";
+// const String chatip = "localhost:8888";
+// const String baseUrl = "http://localhost:8888/api";
+// //phone immulator   change the IP after check ipconf of your computer
+const String chatip = "192.168.16.86:8888";
+const String baseUrl = "http://192.168.16.86:8888/api";
 
 final List<String> serviceTypes = [
   //
